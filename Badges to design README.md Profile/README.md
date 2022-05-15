@@ -8,66 +8,13 @@ how it improves your Profile:- See a sample [here](https://github.com/Singh212da
 2. Use img tag like `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
 
 
-## Menu
+## Badges
 
-- [Welcome](#welcome)
-- [How to use](#how-to-use)
-- [Badges](#badges)
 
-  - [🧑🏼‍🏭 Static](#-static)
-    - [📊 Analytics](#-analytics-)
-    - [🤖 Artificial Intelligence](#-artificial-intelligence-)
-    - [🔗 Blockchain](#-blockchain-)
-    - [📝 Blog](#-blog-)
-    - [📱 Contact](#-contact-)
-    - [☁ Cloud](#-cloud-)
-    - [💲 Cryptocurrency](#-cryptocurrency-)
-    - [⚡ Database](#-database-)
-    - [🖍 Design](#-design-)
-    - [📚 Education](#-education-)
-    - [📦 ETL](#-etl-)
-    - [🍔 Food](#-food-)
-    - [🚀 Frameworks](#-frameworks-)
-    - [❤ Funding](#-funding-)
-    - [🎮 Games](#-games-)
-    - [🤜 Group](#-group-)
-    - [👩‍💻 IDE](#-ide-)
-    - [🔌 IDE Plugin](#-ide-plugin-)
-    - [👩‍💻 Languages](#-languages-)
-    - [🧐 Linters](#-linters-)
-    - [📱 Mobile Frameworks](#-mobile-frameworks-)
-    - [👨‍💻 Office](#-office-)
-    - [⚙️ ORM ](#orm)
-    - [💻 OS](#-os-)
-    - [💡 Prototyping Platforms](#-prototyping-platforms-)
-    - [🔒 Security Platforms](#-security-platforms-)
-    - [👨 Social](#-social-)
-    - [👩‍💻 Software Metrics & Analytics](#-software-metrics-and-analytics-)
-    - [🎶 Sound](#-sound-)
-    - [💻 Spatial software](#-spatial-software-)
-    - [🛒 Store](#-store-)
-    - [🎞 Streaming](#-streaming-)
-    - [💻 Terminal](#-terminal-)
-    - [🌐 Web Browsers](#-web-browsers-)
-    - [🥅 Work/Jobs](#-workjobs-)
-    - [⏱️ Workflow Platforms](#-workflow-platforms-)
-    - [💻 Workspace Spec](#-workspace-spec-)
-  - [🔁 Dynamic](#-dynamic-)
-    - [📈 Activity Graph](#-activity-graph-)
-    - [💳 Github Profile Summary Card](#-github-profile-summary-card-)
-    - [📟 GitHub Stats](#-github-stats-)
-    - [📊 Most Used Language](#-most-used-language-)
-    - [🎯 Profile Hits Counter](#-profile-hits-counter-)
-    - [⏱ Streak Stats](#-streak-stats-)
-    - [🏆 Trophy Stats](#-trophy-stats-)
 
-- [How To Contribute](#-how-to-contribute-)
-- [Creators](#creators-)
-- [See More Repositories](#see-more-repositories)
+<h2 align='center'>Segments 🔻</h2>
 
-<h2 align='center'>🧑🏼‍🏭 Static</h2>
-
-## 📊 Analytics [🔝]
+## Analytics [🔝]
 | Badge                                                                                                                            | URL                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /> | `https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white` |
