@@ -12,7 +12,7 @@ how it improves your Profile:- See a sample [here](https://github.com/Singh212da
 
 
 
-<h2 align='center'>Segments 🔻</h2>
+<h1 align='center'>Segments 🔻</h1>
 
 ## Analytics :
 | Badge                                                                                                                            | URL                                                                                                                  |
@@ -350,7 +350,7 @@ how it improves your Profile:- See a sample [here](https://github.com/Singh212da
 | <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />                          | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`                          |
 | <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>                             | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`                            |
 
-## 💕 Funds 
+## 💕 Funding 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | <img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white" />                   | `https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white`                   |
@@ -434,7 +434,7 @@ how it improves your Profile:- See a sample [here](https://github.com/Singh212da
 | <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />                               | `https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white`                               |
 
 
-## 👩‍💻 Languages 
+## 👩‍💻 Programming Languages 
 | Badge                                                                                                                        | URL                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />      | `https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white`        |
